@@ -67,3 +67,10 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 2. Enter 0000000000
 
 ## Expected result: The input field should display 00000000 with any further inputs not displaying
+
+# Module 5: Application does not close on window close.
+1. Build and run CiCo
+2. Click the "X" in the top right corner of the window to close it.
+
+## Expected Result: The application window disappears and the program stops running.
+# Actual Result: The application window disappears but the program continues running.
